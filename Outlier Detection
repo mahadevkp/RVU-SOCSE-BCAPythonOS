@@ -1,0 +1,2 @@
+A) Visualize outliers using box plot from Matplotlib and Seaborn
+B) Identify outliers in datasets using Pandas DataFrame and Interquartile Range (IQR)
