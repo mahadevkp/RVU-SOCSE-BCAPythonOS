@@ -1,0 +1,2 @@
+Write a shell script that monitors memory usage on the system using commands like free and top. 
+Display the current memory usage and available memory.
